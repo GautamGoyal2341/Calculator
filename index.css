@@ -63,10 +63,11 @@ button{
     
 }
 
-.btn-yello{
+.btn-yellow{
    
     background: rgb(245, 146, 62);
     color: #fff;
+    /* color: red; */
           
 }
 
